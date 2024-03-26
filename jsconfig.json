@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"module": "ESNext",
+		"target": "ESNext",
+		"useDefineForClassFields": true,
+		"experimentalDecorators": true
+	},
+	"include": ["src/**/*"],
+	"typeAcquisition": {
+		"include": ["video.js", "jquery", "bootstrap"]
+	}
+}
